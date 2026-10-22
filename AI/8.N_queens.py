@@ -1,3 +1,6 @@
+#Rachchh Visva
+#92600584074
+
 def solve_n_queens(n):
     board=[-1]*n
 
